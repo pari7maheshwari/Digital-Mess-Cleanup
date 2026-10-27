@@ -1,0 +1,18 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.cache/
+huggingface_cache/
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated files and organized output
+*_Organized/
+organized_output/
+output/
